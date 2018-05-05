@@ -12,3 +12,6 @@ github:github.com/Jojozzc
 
 blog:
 	http://www.cnblogs.com/jojozzc/
+
+这个项目还在进行中，敬请期待~~~
+This project is still on the way, so stay tuned.
