@@ -41,7 +41,7 @@ public class Main {
         String from = "F:\\Code\\test1";
         String to = "F:\\Code\\test2";
         try {
-            if()
+
         }catch (Exception e){
             e.printStackTrace();
         }
